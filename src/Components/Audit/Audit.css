@@ -1,0 +1,12 @@
+.audit-main-title {
+    border-bottom: 1px solid #2196f3;
+    width: calc(100vw - 230px);
+}
+
+.audit-options-container {
+    display: flex;
+}
+
+.audit-option {
+    margin-right: 20px;
+}

@@ -1,0 +1,48 @@
+.user-menu {
+    width: 150px;
+    margin-right: 10px;
+}
+
+.user-menu-summary {
+    text-align: center;
+}
+
+.user-menu-icon {
+    margin-right: 5px;
+    margin-left: 35px;
+}
+
+.user-menu-title {
+    font-size: 14px;
+    margin: 5px 0 0;
+}
+
+.user-menu-details {
+    width: 100%;
+    display: flex;
+    /* padding: 0; */
+    align-items: center;
+}
+
+.user-menu-option {
+    width: 100%;
+    border: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+}
+
+.user-menu-option:hover {
+    background-color: #ddd;
+}
+
+.user-menu-option-icon {
+}
+
+.user-menu-option-text {
+    font-size: 14px;
+    /* margin-top: -10px; */
+    margin-left: 10px;
+}
